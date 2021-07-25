@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="NoGlowSquids:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dbbe424-8f47-43ac-9b6e-85e3886db7e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vnKYWZn1ojcO7Eptioo52VFSOy" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/TestServer - 1.17.0/spigot-1.17.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.jacksoneng.noGlowSquids" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dbbe424-8f47-43ac-9b6e-85e3886db7e5" name="Default Changelist" comment="" />
+      <created>1627192461216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627192461216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="101" key="FileChooserDialogImpl" timestamp="1627192482362">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="347" y="101" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1627192482362" />
+    <state x="120" y="0" key="SettingsEditor" timestamp="1627192491113">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="120" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1627192491113" />
+  </component>
+</project>
