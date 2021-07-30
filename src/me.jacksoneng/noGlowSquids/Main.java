@@ -12,6 +12,7 @@ public class Main extends JavaPlugin
     public void onEnable()
     {
         server.getPluginManager().registerEvents(new AntiGlowSquid(), this);
+        
         server.getConsoleSender().sendMessage("NoGlowSquids enabled");
     }
 
