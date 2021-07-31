@@ -6,7 +6,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin
 {
-    Server server = Bukkit.getServer();
+    public static Server server = Bukkit.getServer();
 
     @Override
     public void onEnable()
