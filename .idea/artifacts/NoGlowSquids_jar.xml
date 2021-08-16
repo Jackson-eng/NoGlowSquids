@@ -3,7 +3,6 @@
     <output-path>$PROJECT_DIR$/out/artifacts/NoGlowSquids_jar</output-path>
     <root id="archive" name="NoGlowSquids.jar">
       <element id="module-output" name="NoGlowSquids" />
-      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/TestServer - 1.17.0/spigot-1.17.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
