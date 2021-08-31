@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="NoGlowSquids:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/NoGlowSquids_jar</output-path>
+    <output-path>$PROJECT_DIR$/out/artifacts/NoGlowSquids</output-path>
     <root id="archive" name="NoGlowSquids.jar">
       <element id="module-output" name="NoGlowSquids" />
     </root>
