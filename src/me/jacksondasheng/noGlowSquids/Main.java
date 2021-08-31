@@ -14,7 +14,7 @@ public class Main extends JavaPlugin
     @Override
     public void onEnable()
     {
-        server.getConsoleSender().sendMessage("NoGlowSquids enabled");
+        server.getConsoleSender().sendMessage("Enabling NoGlowSquids");
 
         server.getPluginManager().registerEvents(new AntiGlowSquid(), this);
         server.getScheduler().scheduleSyncRepeatingTask(
